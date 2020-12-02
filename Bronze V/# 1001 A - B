@@ -1,0 +1,36 @@
+https://www.acmicpc.net/problem/1001
+
+# In JAVA
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String args[]) {
+        Scanner sc = new Scanner(System.in);
+        
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        
+        System.out.println(a - b);
+    }
+}
+
+
+# In C
+
+#include <stdio.h>
+
+int main(void) {
+    int a, b;
+    
+    scanf("%d %d", &a, &b);
+    
+    printf("%d", a - b);
+    return 0;
+}
+
+
+# In Python
+
+a, b = map(int, input().split())
+print(a - b)
