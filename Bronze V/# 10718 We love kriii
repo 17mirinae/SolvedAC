@@ -1,0 +1,27 @@
+https://www.acmicpc.net/problem/10718
+
+# In JAVA
+
+public class Main {
+    public static void main(String args[]) {
+        System.out.println("강한친구 대한육군");
+        System.out.println("강한친구 대한육군");
+    }
+}
+
+
+# In C
+
+#include <stdio.h>
+
+int main(void) {
+    printf("강한친구 대한육군\n강한친구 대한육군");
+    
+    return 0;
+}
+
+
+# In Python
+
+print("강한친구 대한육군")
+print("강한친구 대한육군")
